@@ -28,3 +28,11 @@
     color: #0f0f0f;
     font-size: 80%;
 }
+
+body {
+    padding: 50px 0px 0px 0px;
+}
+
+.navbar-dark {
+    background-color: #512da8;
+}
